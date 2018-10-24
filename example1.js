@@ -1,0 +1,1 @@
+var announce = require('./announce');
